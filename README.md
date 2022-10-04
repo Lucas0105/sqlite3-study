@@ -159,3 +159,14 @@ sqllite3
 .mode csv
 .import csv_file_name table_name
 ```
+
+### sqlite READ 정리된 상태로 보기
+```
+.mode column
+```
+
+### column명 보이게 하기
+```
+.header on
+```
+
